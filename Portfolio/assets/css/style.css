@@ -1,0 +1,165 @@
+
+
+body{
+    background-image: url(../images/backgroundImage.png);
+    background-position: top center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Corben', Georgia, Times, sans-serif;
+    font-size: 20 px;
+}
+  
+    
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+
+}
+li>a {
+    display: inline-block;
+    color: white;
+    font-style: none;
+    
+}
+#mainImage{
+    height: 50%;
+    width: 50%;
+}  
+
+.bio{
+    color: black;
+    font-weight: bolder;
+    border-left: 20px;
+    font-style: 10vw;
+    line-height: 1.25cm;
+    margin-top: 0%;
+
+
+}
+.header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+.container{
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: beige;
+    margin-top: 50px;
+    padding-top: 0px;
+    border-radius: 25px;
+    
+}
+.navbar li>a {
+    font-family: 'Georgia', 'Times New Roman', Times, sans-serif;
+    background-color: white;
+    display: inline-block;
+    color: black;
+    font: 40px;     
+    text-decoration: none;
+    text-align: center;
+
+}   
+.navbar {
+    font-family: 'Georgia', 'Times New Roman', Times, sans-serif;
+    background-color: white;
+    color: black;
+    font: 40px;    
+    text-align: right;
+    padding: 10px 0;
+
+}  
+.navbar li {
+    display: inline-block;
+    padding-right: 50px;
+    font-family: 'Georgia', 'Times New Roman', Times, sans-serif;
+}
+.titleClick {
+    color: white;
+    float: left;
+
+}
+.navbar li>a:hover{
+    color: #6C0CE8;
+
+}
+.logo{
+    float: left;
+    color: black;
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #E88E0C;
+    display: block;
+
+}
+
+footer {
+    padding: 20px;
+    clear: both;
+    background: #ccc;
+    
+      
+}
+
+.container .form{
+    width: -webkit-fill-available;
+}
+#pic{
+max-width: 200px;    
+width: 25%;
+float: left;
+padding: 20px;
+border-radius:25px;
+
+}
+#warnerPic{
+    max-width: 200px;    
+    width: 25%;
+    float: right;
+    padding: 20px;
+    border-radius: 25px;
+}
+.portfolio-bio{
+    color: black;
+    font-weight: bolder;
+    border-left: 20px;
+    font-style: 10vw;
+    line-height: 1.25cm;
+    margin-top: 0%;
+    background-color: beige;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
